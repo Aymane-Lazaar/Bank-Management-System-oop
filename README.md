@@ -122,7 +122,7 @@ Every line of code was written with understanding and purpose.
 ---
 
 ## 💻 GitHub Repository  
-🔗 [github.com/AhmedYaser-Mt/Project-12-Bank-System_OOP_](https://github.com/AhmedYaser-Mt/Project-12-Bank-System_OOP_)
+🔗 [github.com/AhmedYaser-Mt/Project-12-Bank-System_OOP_](https://github.com/Aymane-Lazaar/Bank-Management-System-oop/tree/main_)
 
 ---
 
