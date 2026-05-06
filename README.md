@@ -1,4 +1,4 @@
-# 💥 Project 12 — Bank System (OOP)
+# 💥 Project 3 — Bank System (OOP)
 
 ## 📖 Description
 
